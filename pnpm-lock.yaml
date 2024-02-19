@@ -4,6 +4,11 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
+dependencies:
+  '@dashkite/masonry':
+    specifier: link:../masonry
+    version: link:../masonry
+
 devDependencies:
   '@dashkite/amen':
     specifier: ^0.2.0
