@@ -1,6 +1,6 @@
 {
   "name": "@dashkite/genie-clean",
-  "version": "0.13.14",
+  "version": "0.13.15",
   "description": "Clean up build artifacts",
   "keywords": [],
   "homepage": "https://github.com/dashkite/genie-clean#readme",
